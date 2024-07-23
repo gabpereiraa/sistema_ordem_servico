@@ -33,10 +33,10 @@ Projeto de Ordem de Serviço para uma Assitencia Técnica de Ar Condicionados
 * Tela Principal do Administrador
 
     ![Print da Tela](https://github.com/gabpereiraa/sistema_ordem_servico/blob/main/img/tela_principal_adm.png)
-  * Tela Principal do Funcionario
+  * Tela Principal do Funcionário / Usuário
 
     ![Print da Tela](https://github.com/gabpereiraa/sistema_ordem_servico/blob/main/img/tela_principal_user.png)
-* Tela de Cadastro de Funcionarios e Administradores
+* Tela de Cadastro de Funcionários e Administradores
 
      ![Print da Tela](https://github.com/gabpereiraa/sistema_ordem_servico/blob/main/img/tela_funcionarios.png)
   * Tela de Cadastro de Técnicos

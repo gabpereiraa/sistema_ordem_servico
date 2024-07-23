@@ -18,3 +18,48 @@ Projeto de Ordem de Serviço para uma Assitencia Técnica de Ar Condicionados
 
  ## Instalação:
 * Execute o XAMPP
+
+  ![Print da Tela](https://github.com/gabpereiraa/sistema_ordem_servico/blob/main/img/xampp.png)
+* Acesse a administração do MySQL [(phpmyadmin)](https://locallhost.me/phpmyadmin)
+* Crie um novo banco de dados de nome **dbcold**
+* Faça a importação do arquivo [Marvi_Cold.sql](https://github.com/gabpereiraa/sistema_ordem_servico/blob/main/Marvi_Cold.sql)
+ para o XAMPP
+* Em "Releases" faça o download da [marvi_cold(.jar)](https://github.com/gabpereiraa/sistema_ordem_servico/releases/download/marvi_cold/marvi_cold.jar)  e execute o arquivo
+          
+## Interfaces:
+* Tela de Login
+  
+  ![Print da Tela](https://github.com/gabpereiraa/sistema_ordem_servico/blob/main/img/tela_login.png)
+* Tela Principal do Administrador
+
+    ![Print da Tela](https://github.com/gabpereiraa/sistema_ordem_servico/blob/main/img/tela_principal_adm.png)
+  * Tela Principal do Funcionario
+
+    ![Print da Tela](https://github.com/gabpereiraa/sistema_ordem_servico/blob/main/img/tela_principal_user.png)
+* Tela de Cadastro de Funcionarios e Administradores
+
+     ![Print da Tela](https://github.com/gabpereiraa/sistema_ordem_servico/blob/main/img/tela_funcionarios.png)
+  * Tela de Cadastro de Técnicos
+
+  ![Print da Tela](https://github.com/gabpereiraa/sistema_ordem_servico/blob/main/img/tela_tecnicos.png)
+* Tela de Cadastro de Clientes
+
+  ![Print da Tela](https://github.com/gabpereiraa/sistema_ordem_servico/blob/main/img/tela_clientes.png)
+* Tela de Cadastro de Fornecedores
+
+  ![Print da Tela](https://github.com/gabpereiraa/sistema_ordem_servico/blob/main/img/tela_fornecedores.png)
+  * Estoque
+
+  ![Print da Tela](https://github.com/gabpereiraa/sistema_ordem_servico/blob/main/img/tela_produtos.png)
+* Tela de Ordem de Serviço (OS)
+
+  ![Print da Tela](https://github.com/gabpereiraa/sistema_ordem_servico/blob/main/img/tela_OS_completa.png)
+  * Validação na Ordem de Serviço (OS)
+
+  ![Print da Tela](https://github.com/gabpereiraa/sistema_ordem_servico/blob/main/img/valida%C3%A7%C3%A3o_OS.png)
+  * Tela de Impressão da Ordem de Serviço (OS)
+
+  ![Print da Tela](https://github.com/gabpereiraa/sistema_ordem_servico/blob/main/img/impressao_OS_completa.jpg)
+* Relatorios
+
+  ![Print da Tela](https://github.com/gabpereiraa/sistema_os/blob/main/img/tela_relatorio.png)

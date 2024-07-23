@@ -2,7 +2,7 @@
 <h3 align="center">Assistência Técnica de Ar Condicionado</h3>
 
 ## Licença: 
-![GitHub](https://img.shields.io/github/license/gabpereiraa/sistema_ordem_servico?style=flat-square&logo=github&logoColor=black)
+![GitHub](https://img.shields.io/github/license/gabpereiraa/sistema_ordem_servico?style=for-the-badge)
 
 ## Descrição:
 Projeto de Ordem de Serviço para uma Assitencia Técnica de Ar Condicionados
@@ -43,7 +43,7 @@ Projeto de Ordem de Serviço para uma Assitencia Técnica de Ar Condicionados
 
   ![Print da Tela](https://github.com/gabpereiraa/sistema_ordem_servico/blob/main/img/tela_tecnicos.png)
 * Tela de Cadastro de Clientes
-
+  A tela de cadastro de clientes possuí uma validação de CPF / CNPJ onde verifica se o CPF / CNPJ são verdadeiros
   ![Print da Tela](https://github.com/gabpereiraa/sistema_ordem_servico/blob/main/img/tela_clientes.png)
 * Tela de Cadastro de Fornecedores
 

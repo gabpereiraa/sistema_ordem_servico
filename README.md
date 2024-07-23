@@ -42,11 +42,11 @@ Projeto de Ordem de Serviço para uma Assitencia Técnica de Ar Condicionados
   * Tela de Cadastro de Técnicos
 
   ![Print da Tela](https://github.com/gabpereiraa/sistema_ordem_servico/blob/main/img/tela_tecnicos.png)
-* Tela de Cadastro de Clientes
-  A tela de cadastro de clientes possuí uma validação de CPF / CNPJ onde verifica se o CPF / CNPJ são verdadeiros
+* Tela de Cadastro de Clientes.
+  <p> A tela de cadastro de clientes possuí uma validação de CPF / CNPJ onde verifica se o CPF / CNPJ são verdadeiros e possuí a busca de endereço pelo CEP. </p>
   ![Print da Tela](https://github.com/gabpereiraa/sistema_ordem_servico/blob/main/img/tela_clientes.png)
 * Tela de Cadastro de Fornecedores
-
+  <p> A tela de cadastro de Fornecedores possuí a validação CNPJ onde verifica se o CNPJ é verdadeiro e possuí a busca de endereço pelo CEP. </p>
   ![Print da Tela](https://github.com/gabpereiraa/sistema_ordem_servico/blob/main/img/tela_fornecedores.png)
   * Estoque
 

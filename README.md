@@ -62,4 +62,4 @@ Projeto de Ordem de Serviço para uma Assitencia Técnica de Ar Condicionados
   ![Print da Tela](https://github.com/gabpereiraa/sistema_ordem_servico/blob/main/img/impressao_OS_completa.jpg)
 * Relatorios
 
-  ![Print da Tela](https://github.com/gabpereiraa/sistema_os/blob/main/img/tela_relatorio.png)
+  ![Print da Tela](https://github.com/gabpereiraa/sistema_ordem_servico/blob/main/img/tela_relatorios.png)
